@@ -65,6 +65,7 @@
 ---
 
 ### ☕ Support Me
+<a href="https://coff.ee/arunendra" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Buy Me a Coffee"/>
+</a>
 
-<a href="https://www.buymeacoffee.com/ArunendraTripathi"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
-<a href="https://www.ko-fi.com/ArunendraTripathi"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
