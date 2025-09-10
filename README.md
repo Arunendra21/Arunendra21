@@ -5,7 +5,7 @@
 ---
 
 - 🌍 I'm based in **Allahabad, India**
-- 🎓 I'm currently in 3rd year at an institute of national importance
+- 🎓 I'm currently in 3rd year at Indian Institute of Information Technology Senapati.
 - 📫 Reach me at: [9arunendratripathi4826@gmail.com](mailto:9arunendratripathi4826@gmail.com)
 - 🤝 I'm open to collaborating on meaningful open-source projects
 - 🧠 Currently learning: **AI/ML**
