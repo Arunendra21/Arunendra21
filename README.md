@@ -8,8 +8,8 @@
 - 🎓 B.Tech CSE (AI & DS), IIIT Manipur
 - 💼 Intern @ Dciphers IT Solutions | Software Engineer 
 - 📫 9arunendratripathi4826@gmail.com
-- 👤 www.arunendratripathi.org
 - 🧠 Focused on **AI/ML + System Design + Scalable Web Apps**
+- 👤 www.arunendratripathi.org
 
 ---
 
