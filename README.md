@@ -7,8 +7,8 @@
 - 🌍 Based in **Prayagraj, India**
 - 🎓 B.Tech CSE (AI & DS), IIIT Manipur
 - 💼 Intern @ Dciphers IT Solutions | Software Engineer 
-- 📫 9arunendratripathi4826@gmail.com
 - 🧠 Focused on **AI/ML + System Design + Scalable Web Apps**
+- 📫 9arunendratripathi4826@gmail.com
 - 👤 www.arunendratripathi.org
 
 ---
