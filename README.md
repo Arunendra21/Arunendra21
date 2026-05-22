@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arunendra Tripathi</h1>
 
-<h3 align="center">Full Stack Developer | AI/ML Researcher | Problem Solver</h3>
+<h3 align="center">  Software Engineer | AI/ML Researcher | Full Stack Developer</h3>
 
 ---
 
@@ -8,6 +8,7 @@
 - 🎓 B.Tech CSE (AI & DS), IIIT Manipur
 - 💼 Intern @ Dciphers IT Solutions | Software Engineer 
 - 📫 9arunendratripathi4826@gmail.com
+- 👤 www.arunendratripathi.org
 - 🧠 Focused on **AI/ML + System Design + Scalable Web Apps**
 
 ---
