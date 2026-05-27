@@ -16,7 +16,7 @@
 ### 🛠️ Tech Stack
 
 **Languages**
-C | C++ | Python | JavaScript | TypeScript | PHP | Go(Golang) 
+C | C++ | Python | JavaScript | TypeScript | PHP 
 
 **Frontend & Backend**
 React.js | Node.js | Express.js | REST APIs | Go(Golang) 
