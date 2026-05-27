@@ -19,7 +19,7 @@
 C | C++ | Python | JavaScript | TypeScript | PHP | Go(Golang) 
 
 **Frontend & Backend**
-React.js | Node.js | Express.js | REST APIs  
+React.js | Node.js | Express.js | REST APIs | Go(Golang) 
 
 **AI/ML & Research**
 Machine Learning | CNNs | Image Processing | RDH | Optimization Algorithms  
