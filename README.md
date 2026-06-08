@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arunendra Tripathi</h1>
 
-<h3 align="center">  Software Engineer | AI/ML Researcher | Full Stack Developer</h3>
+<h3 align="center">  Software Engineer | Full Stack Developer</h3>
+
 
 ---
 
