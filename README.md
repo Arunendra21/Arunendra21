@@ -98,15 +98,13 @@ Git | Linux | Postman | Google Cloud | VS Code
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arunendra21&show_icons=true&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Arunendra21&theme=radical" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arunendra21&theme=radical" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arunendra21&theme=radical" width="32%"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Arunendra21&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arunendra21&layout=compact&theme=radical" />
 </p>
 
 ---
