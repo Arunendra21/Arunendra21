@@ -1,6 +1,21 @@
 <h1 align="center">Hi 👋, I'm Arunendra Tripathi</h1>
 
-<h3 align="center">  Software Engineer | Full Stack Developer</h3>
+<h3 align="center">Software Engineer | Full Stack Developer</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/arunendratripathi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>&nbsp;
+  <a href="mailto:9arunendratripathi4826@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://www.arunendratripathi.org" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live%20Website-4F46E5?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://leetcode.com/u/9arunendratripathi4826" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+</p>
 
 
 ---
