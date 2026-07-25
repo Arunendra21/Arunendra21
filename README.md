@@ -1,7 +1,25 @@
 <h1 align="center">Hi 👋, I'm Arunendra Tripathi</h1>
 
-<h3 align="center">  Software Engineer | Full Stack Developer</h3>
+<h3 align="center">Software Engineer | Full Stack Developer</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/arunendratripathi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>&nbsp;
+  <a href="mailto:9arunendratripathi4826@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://www.arunendratripathi.org" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live%20Website-4F46E5?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://leetcode.com/u/9arunendratripathi4826" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&multiline=false&width=900&lines=Full+Stack+Developer+%7C+AI+Engineer+%F0%9F%92%BB;B.Tech+CSE+(AI+%26+DS)+%40+IIIT+Manipur+%F0%9F%8E%93;Research+Intern+%40+IIIT+Vadodara+%7C+NIT+Warangal+%F0%9F%94%AC;Building+AI%2FML+%2B+System+Design+%2B+Scalable+Web+Apps+%F0%9F%9A%80;GSSoC+Contributor+%7C+Hacktoberfest+Participant+%F0%9F%8C%8D;Oracle+Certified+%7C+Google+Cloud+Skill+Badges+%E2%98%81%EF%B8%8F;Open+Source+Enthusiast+%7C+LeetCode+50+Days+%F0%9F%8F%86" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -91,34 +109,28 @@ Git | Linux | Postman | Google Cloud | VS Code
 
 ---
 
+### 🐍 Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arunendra21/Arunendra21/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arunendra21/Arunendra21/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Arunendra21/Arunendra21/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
 ### 📂 Featured Projects
 
-<table align="center" width="100%">
-<tr>
-<td align="center" width="50%" valign="top">
-
-**🤖 AI-Sustainability**
-
-Satellite image land-use classification using deep learning. Combines geospatial filtering with ESA WorldCover labels and trains a ResNet-18 CNN to identify built-up areas, vegetation, cropland, and water within the Delhi airshed region.
-
-`Python` `ResNet-18` `CNN` `Geospatial AI`
-
-[View Repo](https://github.com/Arunendra21/AI-Sustainability)
-
-</td>
-<td align="center" width="50%" valign="top">
-
-**🍱 Foreds - Food Redistribution System**
-
-Full-stack MERN platform connecting NGOs with food donors. Secure authentication, PostgreSQL workflows, focused on real-world impact and scalability.
-
-`JavaScript` `MERN` `PostgreSQL` `Node.js`
-
-[View Repo](https://github.com/Arunendra21/FoRed-2)
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/Arunendra21/AI-Sustainability">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arunendra21&repo=AI-Sustainability&theme=radical" />
+  </a>
+  <a href="https://github.com/Arunendra21/FoRed-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arunendra21&repo=FoRed-2&theme=radical" />
+  </a>
+</p>
 
 ---
 
@@ -126,12 +138,18 @@ Full-stack MERN platform connecting NGOs with food donors. Secure authentication
 
 <p align="left">
   <a href="https://github.com/Arunendra21">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32"/>
-  </a>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>&nbsp;
   <a href="https://www.linkedin.com/in/arunendratripathi">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32"/>
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>&nbsp;
   <a href="https://leetcode.com/u/9arunendratripathi4826">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>&nbsp;
+  <a href="mailto:9arunendratripathi4826@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://www.arunendratripathi.org">
+    <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
