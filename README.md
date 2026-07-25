@@ -2,6 +2,9 @@
 
 <h3 align="center">  Software Engineer | Full Stack Developer</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&multiline=false&width=900&lines=Full+Stack+Developer+%7C+AI+Engineer+%F0%9F%92%BB;B.Tech+CSE+(AI+%26+DS)+%40+IIIT+Manipur+%F0%9F%8E%93;Research+Intern+%40+IIIT+Vadodara+%7C+NIT+Warangal+%F0%9F%94%AC;Building+AI%2FML+%2B+System+Design+%2B+Scalable+Web+Apps+%F0%9F%9A%80;GSSoC+Contributor+%7C+Hacktoberfest+Participant+%F0%9F%8C%8D;Oracle+Certified+%7C+Google+Cloud+Skill+Badges+%E2%98%81%EF%B8%8F;Open+Source+Enthusiast+%7C+LeetCode+50+Days+%F0%9F%8F%86" alt="Typing SVG" />
+</p>
 
 ---
 
