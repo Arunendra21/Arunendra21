@@ -80,29 +80,45 @@ Git | Linux | Postman | Google Cloud | VS Code
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arunendra21&show_icons=true&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Arunendra21&theme=radical" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arunendra21&theme=radical" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arunendra21&theme=radical" width="32%"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Arunendra21&theme=radical" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arunendra21&layout=compact&theme=radical" />
-</p>
-
 ---
 
 ### 📂 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Arunendra21/Youtube-spam-Comments">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arunendra21&repo=Youtube-spam-Comments&theme=radical" />
-  </a>
-  <a href="https://github.com/Arunendra21/React_login_page">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arunendra21&repo=React_login_page&theme=radical" />
-  </a>
-</p>
+<table align="center" width="100%">
+<tr>
+<td align="center" width="50%" valign="top">
+
+**🤖 AI-Sustainability**
+
+Satellite image land-use classification using deep learning. Combines geospatial filtering with ESA WorldCover labels and trains a ResNet-18 CNN to identify built-up areas, vegetation, cropland, and water within the Delhi airshed region.
+
+`Python` `ResNet-18` `CNN` `Geospatial AI`
+
+[View Repo](https://github.com/Arunendra21/AI-Sustainability)
+
+</td>
+<td align="center" width="50%" valign="top">
+
+**🍱 Foreds - Food Redistribution System**
+
+Full-stack MERN platform connecting NGOs with food donors. Secure authentication, PostgreSQL workflows, focused on real-world impact and scalability.
+
+`JavaScript` `MERN` `PostgreSQL` `Node.js`
+
+[View Repo](https://github.com/Arunendra21/FoRed-2)
+
+</td>
+</tr>
+</table>
 
 ---
 
