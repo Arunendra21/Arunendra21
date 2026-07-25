@@ -96,11 +96,11 @@ Git | Linux | Postman | Google Cloud | VS Code
 ### 📂 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Arunendra21/Youtube-spam-Comments">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arunendra21&repo=Youtube-spam-Comments&theme=radical" />
+  <a href="https://github.com/Arunendra21/AI-Sustainability">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arunendra21&repo=AI-Sustainability&theme=radical" />
   </a>
-  <a href="https://github.com/Arunendra21/React_login_page">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arunendra21&repo=React_login_page&theme=radical" />
+  <a href="https://github.com/Arunendra21/FoRed-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arunendra21&repo=FoRed-2&theme=radical" />
   </a>
 </p>
 
@@ -110,12 +110,18 @@ Git | Linux | Postman | Google Cloud | VS Code
 
 <p align="left">
   <a href="https://github.com/Arunendra21">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32"/>
-  </a>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>&nbsp;
   <a href="https://www.linkedin.com/in/arunendratripathi">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32"/>
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>&nbsp;
   <a href="https://leetcode.com/u/9arunendratripathi4826">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>&nbsp;
+  <a href="mailto:9arunendratripathi4826@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://www.arunendratripathi.org">
+    <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
