@@ -53,27 +53,41 @@ Git | Linux | Postman | Google Cloud | VS Code
 
 ### 🚀 Projects
 
-#### 🔬 ScholarSynth – Research Paper Analysis Platform
-- AI-powered system to analyze research papers and extract structured insights  
-- Generates summaries, explains equations, identifies research gaps  
-- Features AI chat, quizzes, and semantic search  
-- **Tech:** React, TypeScript, Gemini API, Tailwind, KaTeX  
+#### 🔬 Reversible Data Hiding – Research Reproduction Series
+- 30+ faithful reproductions of recent RDH / RDHEI papers from IEEE, Springer & Elsevier venues  
+- Covers encrypted-image hiding, contrast enhancement, CNN/GNN predictors, secret sharing & the CRT  
+- Every repo benchmarked with MSE / PSNR / embedding-capacity metrics  
+- **Tech:** Python, NumPy, PyTorch, OpenCV  
 
 ---
 
-#### 🍱 Foreds – Food Redistribution System (Ongoing)
-- Full-stack MERN platform connecting NGOs with food donors  
-- Secure authentication + PostgreSQL workflows  
-- Focused on real-world impact and scalability  
+#### 🛰️ NetworkMoS – Network Management System
+- Go backend for SNMP/ICMP device discovery and live monitoring  
+- Real-time React + TypeScript dashboard for network health & alerts  
+- **Tech:** Go, React, TypeScript, SNMP  
+
+---
+
+#### 🪐 CodeOrbit – Unified Coding Performance Dashboard
+- Aggregates competitive-programming stats from multiple judges into one dashboard  
+- [Live Demo](https://codeorbit-psi.vercel.app)  
+- **Tech:** Next.js 16, React 19, Node.js, MongoDB, TypeScript  
+
+---
+
+#### 🎙️ MoneyMitra – Financial Voice Agent
+- Bharat-focused financial voice assistant with persistent SQLite caller memory  
+- Built for the Murf "Voice-for-Bharat" challenge (Financial track)  
+- **Tech:** Python, Murf API, SQLite  
 
 ---
 
 ### 💼 Experience
 
 #### 🧪 Research Intern – IIIT Vadodara (2026–Present)
-- Built CNN-based predictors for Reversible Data Hiding  
-- Compared models using MSE & PSNR metrics  
-- Worked on encrypted image processing & embedding techniques  
+- Building CNN-based predictors for Reversible Data Hiding  
+- Reproducing and benchmarking state-of-the-art RDH/RDHEI literature (MSE & PSNR)  
+- Working on encrypted image processing & high-capacity embedding techniques  
 
 ---
 
@@ -84,14 +98,20 @@ Git | Linux | Postman | Google Cloud | VS Code
 
 ---
 
+#### 💻 Software Engineering Intern – Dciphers IT Solutions
+- Building scalable full-stack web applications  
+- Working across React/Node.js front-to-back-end and REST APIs  
+
+---
+
 ### 🏆 Achievements
 
-- GSSoC Open Source Contributor  
-- Hacktoberfest – Multiple PRs merged  
-- LeetCode – 50 Days Badge  
-- Oracle Certified Foundations Associate  
-- Google Cloud Skill Badges  
-- Gemini Verified + Antariksh Hackathon  
+- 🔬 Published 30+ open-source reproductions of recent RDH research papers  
+- 🛡️ Competed in the Kaggle **AI Agent Security** (Multi-Step Tool Attacks) competition  
+- ☁️ Google Cloud Skill Badges + Gemini Verified (Antariksh Hackathon)  
+- 🎓 Oracle Certified Foundations Associate  
+- 🌍 GSSoC Open Source Contributor & Hacktoberfest – multiple PRs merged  
+- 🏅 LeetCode – 50 Days Badge  
 
 ---
 
