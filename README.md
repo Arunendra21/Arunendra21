@@ -134,6 +134,28 @@ Git | Linux | Postman | Google Cloud | VS Code
 
 ---
 
+### 📓 Featured Notebooks & Experiments
+
+<p align="center">
+  <a href="https://github.com/Arunendra21/Codeorbit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arunendra21&repo=Codeorbit&theme=radical" />
+  </a>
+  <a href="https://github.com/Arunendra21/worse-gpu-allocator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arunendra21&repo=worse-gpu-allocator&theme=radical" />
+  </a>
+  <a href="https://github.com/Arunendra21/fastpull">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arunendra21&repo=fastpull&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <b>CodeOrbit</b> — unified competitive-programming performance dashboard (Next.js 16 · React 19 · MongoDB) &nbsp;•&nbsp;
+  <b>worse-gpu-allocator</b> — a deliberately bad, dependency-free GPU memory allocator simulator for teaching allocator tradeoffs &nbsp;•&nbsp;
+  <b>fastpull</b> — lazy-loading snapshotter that starts massive AI/ML container images 10x faster
+</p>
+
+---
+
 ### 🌐 Connect With Me
 
 <p align="left">
