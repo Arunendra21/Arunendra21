@@ -136,23 +136,10 @@ Git | Linux | Postman | Google Cloud | VS Code
 
 ### 📓 Featured Notebooks & Experiments
 
-<p align="center">
-  <a href="https://github.com/Arunendra21/Codeorbit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arunendra21&repo=Codeorbit&theme=radical" />
-  </a>
-  <a href="https://github.com/Arunendra21/worse-gpu-allocator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arunendra21&repo=worse-gpu-allocator&theme=radical" />
-  </a>
-  <a href="https://github.com/Arunendra21/fastpull">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arunendra21&repo=fastpull&theme=radical" />
-  </a>
-</p>
-
-<p align="center">
-  <b>CodeOrbit</b> — unified competitive-programming performance dashboard (Next.js 16 · React 19 · MongoDB) &nbsp;•&nbsp;
-  <b>worse-gpu-allocator</b> — a deliberately bad, dependency-free GPU memory allocator simulator for teaching allocator tradeoffs &nbsp;•&nbsp;
-  <b>fastpull</b> — lazy-loading snapshotter that starts massive AI/ML container images 10x faster
-</p>
+| Project | Description | Tech |
+| :------ | :---------- | :--- |
+| [**🛰️ CodeOrbit**](https://github.com/Arunendra21/Codeorbit) | Unified competitive-programming performance dashboard aggregating stats from multiple judges into one view. [Live Demo](https://codeorbit-psi.vercel.app) | ![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) |
+| [**⚡ fastpull**](https://github.com/Arunendra21/fastpull) | Lazy-loading snapshotter that starts massive AI/ML container images (>10 GB) up to 10x faster. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) ![Containers](https://img.shields.io/badge/Containers-2496ED?logo=docker&logoColor=white) |
 
 ---
 
