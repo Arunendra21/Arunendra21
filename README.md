@@ -123,14 +123,10 @@ Git | Linux | Postman | Google Cloud | VS Code
 
 ### 📂 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Arunendra21/AI-Sustainability">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arunendra21&repo=AI-Sustainability&theme=radical" />
-  </a>
-  <a href="https://github.com/Arunendra21/FoRed-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arunendra21&repo=FoRed-2&theme=radical" />
-  </a>
-</p>
+| Project | Description | Tech |
+| :------ | :---------- | :--- |
+| [**🌱 AI-Sustainability**](https://github.com/Arunendra21/AI-Sustainability) | Satellite land-use classification with deep learning — a ResNet-18 CNN over ESA WorldCover labels identifying built-up, vegetation, cropland and water in the Delhi airshed. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![CNN](https://img.shields.io/badge/ResNet--18-CNN-8A2BE2) |
+| [**🍱 FoRed**](https://github.com/Arunendra21/FoRed-2) | Food Redistribution platform connecting NGOs with food donors — full-stack workflows built for real-world impact and scale. | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |
 
 ---
 
