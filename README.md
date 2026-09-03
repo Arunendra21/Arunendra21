@@ -129,6 +129,18 @@ Git | Linux | Postman | Google Cloud | VS Code
 
 ---
 
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arunendra21&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" width="95%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Arunendra21&theme=radical&utcOffset=5.5" width="40%"/>
+</p>
+
+---
+
 ### 🐍 Contribution Graph
 
 <p align="center">
